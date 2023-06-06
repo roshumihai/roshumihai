@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshumihai
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Material UI
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in Frontend and Backend Development
+- 🌱 I’m using React JS and Python
+- 💞️ I’m looking to collaborate on Web Applications
 
 <!---
 roshumihai/roshumihai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
