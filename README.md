@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @roshumihai
+- 👋 Hi, I’m Rosu Mihai     @roshumihai
 - 👀 I’m interested in Frontend and Backend Development
-- 🌱 I’m using React JS and Python
+- 🌱 I’m using JavaScript (React) and Python (Django)
 - 💞️ I’m looking to collaborate on Web Applications
 
 <!---
